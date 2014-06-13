@@ -4,3 +4,7 @@
  *= require readable/loader
  *= require readable/bootswatch
 */
+
+.theme-showcase {
+  margin-top: 50px;
+}
